@@ -1,3 +1,5 @@
+
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 Disclamer: this is just my opinion if you don't like it, idk
 ## Websites
 
