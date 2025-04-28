@@ -1,5 +1,5 @@
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-english-blue.svg)](README.md)
 
 Дисклеймер: это просто мое мнение если вам не нравится то хз
 ## Сайты
